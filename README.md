@@ -1,7 +1,7 @@
-<h2 align='center'> "Think with your hands!" </p>
+<h2 align='center'>어서와요</p>
 <br>
 
-<h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
+<h3 align='center'>:red_heart: SNS list :red_heart:</p>
 <p align='center'>
 
  <a href="https://github.com/lovaoi777/" target="_blank"><img src="https://img.shields.io/badge/My Info (Gitblog)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>

@@ -1,7 +1,7 @@
 <h2 align='center'>어서와요</p>
 <br>
 
-<h3 align='center':blue_heart:SNS:blue_heart:</p>
+<h3 align='center'>:blue_heart:SNS:blue_heart:</p>
 
 <p align='center'>
 

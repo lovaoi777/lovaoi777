@@ -1,39 +1,28 @@
-<h2 align='center'>어서와요</p>
-<br>
+<div align="center">
 
-<h3 align='center'>:blue_heart:SNS:blue_heart:</p>
+### Hi  I'm Byeong Gyu 👋
 
-<p align='center'>
-
- <a href="https://github.com/lovaoi777/" target="_blank"><img src="https://img.shields.io/badge/My Info (Gitblog)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
-<a href="https://blog.naver.com/lovaoi777" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
-<a href="https://www.facebook.com/profile.php?id=100005123107166" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
-<a href="https://www.instagram.com/gyu_1_gyu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmihyunLee&count_bg=%23656565&title_bg=%23EC407A&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
-<br>
-  
-<details>
-  <summary>:blue_heart:Tech Stack:blue_heart:</summary>
-   <p><p align='center'>
- I'm learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor="/></a>
- <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mihyunLee&show_icons=true&theme=calm" width=50% />
+    </a>
+    
+  ### 🛠️ Technology Stack 🛠️
+  ---
  
-<br>
-<br>
+  <div>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
+  </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lovaoi777&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
 
-<br>
+   <a href="https://github.com/devpla/github-stats-transparent">
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mihyunLee&layout=compact&theme=calm" width=50% />
+    </a>
 
-![lovaoi777's github stats](https://github-readme-stats.vercel.app/api?username=lovaoi777&show_icons=true)
-![lovaoi777's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lovaoi777&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-
-<br> 
-
+<br><br>

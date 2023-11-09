@@ -22,7 +22,7 @@
   <br>
 
    <a href="https://github.com/devpla/github-stats-transparent">
-        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mihyunLee&layout=compact&theme=calm" width=50% />
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lovaoi777&layout=compact&theme=calm" width=50% />
     </a>
 
 <br><br>

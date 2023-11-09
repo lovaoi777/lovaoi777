@@ -26,3 +26,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,styledcomponents,js,ts,react,redux,vercel,flutter&perline=5)](https://skillicons.dev)
 
 <br><br>
+![](./profile-3d-contrib/profile-green-animate.svg)
